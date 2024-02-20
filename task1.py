@@ -1,3 +1,5 @@
+#code to create a simple to-do list in python
+
 from tkinter import *
 import tkinter.messagebox
 
