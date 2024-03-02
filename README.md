@@ -4,3 +4,5 @@ If by mistake user has entered a wrong task then the user can easily delete thos
 
 TASK 2: I have implemented a simple calculator using GUI in python programming language.The rich pyhton library called 'tkinter' helps in building user interfaces with ease.
 In this interface, we have mimiced and provided the basic functionalities offered by a calculator to the user.
+
+TASK 3: Implemented a password generator using python programming languauge which generates random strong, medium and weak strength passwords and displays them on the screen.User can also vary the length of the password and can also copy the password generated to the text clipboard.
